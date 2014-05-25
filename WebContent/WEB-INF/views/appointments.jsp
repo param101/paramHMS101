@@ -1,14 +1,14 @@
-<%@page import="com.fort.util.JSPTableConfig"%>
+<%@page import="com.par.util.JSPTableConfig"%>
 <%@page import="java.util.List"%>
-<%@page import="com.fort.util.JSPUtils"%>
-<%@page import="com.fort.consts.JSPConstants"%>
+<%@page import="com.par.util.JSPUtils"%>
+<%@page import="com.par.consts.JSPConstants"%>
 <%@page import="java.util.HashMap"%>
 <%@page import="java.util.Map"%>
 
-<%@page import="com.fort.util.DateUtils"%>
+<%@page import="com.par.util.DateUtils"%>
 <%@page import="java.sql.Date"%>
 <%@page import="java.util.List"%>
-<%@page import="com.fort.bean.DashBoardOutPatBean"%>
+<%@page import="com.par.bean.DashBoardOutPatBean"%>
 <%@page import="java.text.SimpleDateFormat"%>
 <%@page import="java.util.Calendar"%>
 <%
